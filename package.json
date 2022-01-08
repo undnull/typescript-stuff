@@ -1,13 +1,14 @@
 {
-    "name": "tsmake",
+    "name": "typescript-stuff",
     "version": "1.0.0",
-    "description": "TypeScript + NodeJS meets GNU Make ",
+    "description": "",
     "scripts": {
         "main": "node dist/main.js"
     },
     "author": "Kirill \"Und\" GPRB",
     "license": "MIT",
     "devDependencies": {
+        "@types/node": "^17.0.8",
         "typescript": "^4.5.4"
     }
 }
